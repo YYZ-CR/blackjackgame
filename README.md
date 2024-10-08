@@ -1,2 +1,2 @@
 # blackjackgame
-a black jack game I coded in 2022
+A very basic interactive blackjack game created only using the Python interface and the terminal. Created in 2022.
